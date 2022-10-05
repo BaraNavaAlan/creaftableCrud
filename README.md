@@ -1,4 +1,4 @@
-# NotesApp
+# CRUD GENERATOR
 Laravel (Auth, Admin Panel y CRUD Generator)
 
 
@@ -19,21 +19,15 @@ List of command used on the proyect.
 
 3. Install Admin Generator
    ```sh
-  composer require --dev brackets/admin-generator
+   composer require --dev brackets/admin-generator
    ```
 
-4. Install Craftable (Save your key in a new notepad)
+4. Install craftable
    ```sh
-   php artisan craftable:install  
+   php artisan craftable:install
    ```
 
-5. Run the project
+5. Install Dependencies
    ```sh
-   npm install && npm run dev  
+   npm install && npm run dev 
    ```
-
-
-
-
-
-
