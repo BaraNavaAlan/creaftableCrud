@@ -31,3 +31,24 @@ List of command used on the proyect.
    ```sh
    npm install && npm run dev 
    ```
+
+
+6. Create a migration
+   ```sh
+   php artisan make:migration create_posts_table 
+   ```
+
+7. Run migration
+   ```sh
+   php artisan migrate 
+   ```
+
+8. Create views
+   ```sh
+   php artisan admin:generate posts
+   ```
+
+9. Install Dependencies
+   ```sh
+   npm install && npm run dev 
+   ```
